@@ -4,6 +4,10 @@ public class demo06 {
         int a = 11;
         System.out.println(a);
 
+        int b = 11;
+        System.out.println(b);
+
+
     }
 
 }
